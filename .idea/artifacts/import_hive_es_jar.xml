@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="import-hive-es:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts</output-path>
+    <root id="archive" name="myDataFromHive.jar">
+      <element id="module-output" name="import-hive-es" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/dom4j/dom4j/2.0.0-RC1/dom4j-2.0.0-RC1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
